@@ -39,7 +39,17 @@ Reg.No:212221240037
    
    
 ## Output:
- You Tube :https://youtu.be/IWPStniP46E
+![github.logo](exp4.png)
+
+![github.logo](exp4.1.png)
+
+![github.logo](exp4.2.png)
+
+![github.logo](exp4.3.png)
+
+
+## You Tube:
+https://youtu.be/IWPStniP46E
 
 
 ## Result:
